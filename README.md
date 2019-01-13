@@ -2,6 +2,8 @@
 
 created by [Diana Yoo](https://github.com/dianajyoo) and [Brian DiRito](https://github.com/bcdirito)
 
+click [here](https://drive.google.com/file/d/16d4pn2F8owzSW_xHkC4CEOfySHrBpUvs/view?usp=sharing) for video demo
+
 myBrews uses Ruby and ActiveRecord to manage and interact with multiple databases.
 
 myBrews is a Coffee Companion app, where users create a profile to save, favorite,
